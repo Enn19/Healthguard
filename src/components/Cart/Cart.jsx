@@ -94,7 +94,7 @@ export default function Cart() {
                 <div className="row">
                     <div className='d-flex justify-content-between'>
                         <h1 className='text-main'>Cart Shop</h1>
-                        <Link to={"/Payment"} className='btn fs-4 text-white' style={{ backgroundColor: ' #009578' }}>Check Out</Link>
+                        <Link to={"/payment"} className='btn fs-4 text-white' style={{ backgroundColor: ' #009578' }}>Check Out</Link>
 
                     </div>
                     <div className="d-flex justify-content-between mt-3">
