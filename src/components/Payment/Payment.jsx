@@ -13,7 +13,7 @@ export default function Payment() {
        const shippingAddress={
         "shippingAddress":{
             "details":detailsValue,
-            "phone":phoneValue,
+            "phone":phoneValue, 
             "city":cityValue
         }
        }
